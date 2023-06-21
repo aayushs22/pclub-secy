@@ -15,3 +15,5 @@ Overall the problem can be Solved in O(n*w), where w is the sum of sweetness of 
 
 P.S.:Initially, I had added a part 2 of the question:
 Second line in output contains the sweetness values of the sweets served to Varun, in any order, as space-separated integers.If there are multiple correct outputs,print one of them.Second part can be done using recursion and memoisation, printing a number if the target sum can be made using that index sweet and not from sweets with index less than it.My solution also contains its working code but I have commented it out, because I was facing problem in making its checker function, so I skipped that part.
+
+polygon link:https://polygon.codeforces.com/p0yA9Pv/aaying/sweet-distribution
